@@ -1055,13 +1055,8 @@
     "relativePath": "script/game/booth.js"
   },
   "70fb031c-617e-48fc-a3d8-2b7dca0da553": {
-    "asset": 1604921871171,
-    "meta": 1604921872260,
+    "asset": 1604996586104,
+    "meta": 1604996941652,
     "relativePath": "script/game/renwu.js"
-  },
-  "02a2f48d-8972-48ad-924f-b21f8013af30": {
-    "asset": 1604980572818,
-    "meta": 1604991981606,
-    "relativePath": "README.md"
   }
 }
