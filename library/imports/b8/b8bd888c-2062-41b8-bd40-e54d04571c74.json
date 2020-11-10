@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钞票",
+    "texture": "d7c3f269-28c8-44bf-b27a-3b6a491f6198",
+    "atlas": "4c6f3b39-0470-440a-baa1-93d610087a3b",
+    "rect": [
+      1834,
+      1260,
+      51,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

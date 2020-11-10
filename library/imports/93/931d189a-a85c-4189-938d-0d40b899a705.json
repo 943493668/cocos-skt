@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "场景中间高光固定",
+    "texture": "53fd4aa7-960d-4cfe-ab05-a4252d11f89e",
+    "atlas": "",
+    "rect": [
+      19,
+      51,
+      713,
+      713
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      750,
+      815
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

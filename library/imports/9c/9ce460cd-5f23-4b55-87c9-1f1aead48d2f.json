@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "车开动_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"name\":\"车开动\",\"imagePath\":\"车开动_tex.png\",\"height\":512,\"SubTexture\":[{\"name\":\"0车身\",\"x\":1,\"height\":252,\"y\":1,\"width\":464},{\"name\":\"车轮\",\"x\":1,\"height\":100,\"y\":388,\"width\":100},{\"name\":\"车灯\",\"x\":1,\"height\":85,\"y\":301,\"width\":174},{\"name\":\"椭圆8\",\"x\":1,\"height\":44,\"y\":255,\"width\":455}],\"width\":512}",
+  "_texture": {
+    "__uuid__": "e76fafc6-8a8e-4fdf-a1bd-a8f834d78a48"
+  },
+  "texture": {
+    "__uuid__": "e76fafc6-8a8e-4fdf-a1bd-a8f834d78a48"
+  },
+  "_textureAtlasData": null
+}

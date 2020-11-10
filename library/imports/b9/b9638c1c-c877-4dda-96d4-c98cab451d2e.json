@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "打烊了_tex",
+    "texture": "c013812b-d011-4a48-a7f1-592f946c45e5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      964,
+      1020
+    ],
+    "offset": [
+      -29,
+      1
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钞票di",
+    "texture": "d7c3f269-28c8-44bf-b27a-3b6a491f6198",
+    "atlas": "4c6f3b39-0470-440a-baa1-93d610087a3b",
+    "rect": [
+      1485,
+      1182,
+      190,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      36
+    ],
+    "capInsets": [
+      48,
+      0,
+      42,
+      0
+    ]
+  }
+}

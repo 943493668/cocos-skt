@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "光圈大",
+    "texture": "e958bc17-55b4-4d1c-88e4-55c1ac1b6b33",
+    "atlas": "3819ff32-2435-4e3f-8d85-b578d8046971",
+    "rect": [
+      295,
+      794,
+      458,
+      458
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      458,
+      458
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

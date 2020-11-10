@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "勋章等级2",
+    "texture": "e958bc17-55b4-4d1c-88e4-55c1ac1b6b33",
+    "atlas": "3819ff32-2435-4e3f-8d85-b578d8046971",
+    "rect": [
+      269,
+      250,
+      249,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      266
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

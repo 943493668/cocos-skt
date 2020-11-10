@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "收入翻倍",
+    "texture": "32b3f97e-2069-4e49-859f-b8f0186655d9",
+    "atlas": "d0e47d9b-2eb4-4894-8923-52734a45defa",
+    "rect": [
+      891,
+      1632,
+      251,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

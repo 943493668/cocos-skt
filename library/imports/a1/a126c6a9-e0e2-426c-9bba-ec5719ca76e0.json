@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加载界面动态",
+    "texture": "47164486-fc6e-4176-8522-dc35f47e5c58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      221,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

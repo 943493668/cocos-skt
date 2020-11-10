@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "操作di",
+    "texture": "98f5650b-4e79-4d43-bf83-a2dec2580b96",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      214
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      214
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "道具动画_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"name\":\"道具动画\",\"imagePath\":\"道具动画_tex.png\",\"height\":256,\"SubTexture\":[{\"name\":\"道具动态/1-1\",\"x\":124,\"height\":33,\"y\":202,\"width\":72},{\"name\":\"道具动态/召集顾客\",\"x\":168,\"height\":67,\"y\":82,\"width\":68},{\"name\":\"道具动态/光点1\",\"x\":88,\"height\":71,\"y\":82,\"width\":78},{\"name\":\"道具动态/光点5\",\"x\":88,\"height\":79,\"y\":1,\"width\":80},{\"name\":\"道具动态/光点2\",\"x\":170,\"height\":79,\"y\":1,\"width\":79},{\"name\":\"道具动态/光点4\",\"x\":1,\"height\":75,\"y\":83,\"width\":70},{\"name\":\"道具动态/光点3\",\"x\":1,\"height\":80,\"y\":1,\"width\":85},{\"name\":\"收益增强\",\"x\":168,\"height\":49,\"y\":151,\"width\":56},{\"name\":\"移动加速\",\"x\":73,\"height\":53,\"y\":155,\"width\":49}],\"width\":256}",
+  "_texture": {
+    "__uuid__": "d00f798b-30cd-453a-a34c-ea599bac0942"
+  },
+  "texture": {
+    "__uuid__": "d00f798b-30cd-453a-a34c-ea599bac0942"
+  },
+  "_textureAtlasData": null
+}

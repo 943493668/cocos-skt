@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小地图",
+    "texture": "b5470b43-6d94-4bba-ab95-e03b79c66d1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      240
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加载进度条中",
+    "texture": "a1e1907f-80ef-45fc-9e83-786cc44e81ec",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      596,
+      22
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      601,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

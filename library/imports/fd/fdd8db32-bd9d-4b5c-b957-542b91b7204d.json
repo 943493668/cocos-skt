@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "道具动画_tex",
+    "texture": "d00f798b-30cd-453a-a34c-ea599bac0942",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      248,
+      234
+    ],
+    "offset": [
+      -3,
+      10
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

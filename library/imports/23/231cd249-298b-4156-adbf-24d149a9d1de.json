@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "摆摊角色动作all_tex",
+    "texture": "bc962f1a-21f5-48e2-b830-82a6e927db85",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1194,
+      1022
+    ],
+    "offset": [
+      -426,
+      0
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

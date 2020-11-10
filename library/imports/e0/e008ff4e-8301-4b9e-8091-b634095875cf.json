@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "场景四周阴影固定",
+    "texture": "0d35f3c5-f725-4d0b-869a-01a8e6d0d90e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      1334
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      1334
+    ],
+    "capInsets": [
+      0,
+      585,
+      0,
+      671
+    ]
+  }
+}

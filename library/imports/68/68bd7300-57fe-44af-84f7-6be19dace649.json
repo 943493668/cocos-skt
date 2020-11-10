@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "邀请好友di",
+    "texture": "d7c3f269-28c8-44bf-b27a-3b6a491f6198",
+    "atlas": "4c6f3b39-0470-440a-baa1-93d610087a3b",
+    "rect": [
+      1384,
+      1201,
+      185,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      62
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
