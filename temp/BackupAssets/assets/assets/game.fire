@@ -195,7 +195,7 @@
       "array": [
         0,
         0,
-        475.43748347460496,
+        470.2414454038443,
         0,
         0,
         0,
@@ -293,7 +293,7 @@
       "array": [
         0,
         0,
-        475.43748347460496,
+        470.2414454038443,
         0,
         0,
         0,
@@ -14767,7 +14767,7 @@
     "_useOriginalSize": false,
     "_string": "5000",
     "_N$string": "5000",
-    "_fontSize": 28,
+    "_fontSize": 48,
     "_lineHeight": 50,
     "_enableWrapText": true,
     "_N$file": null,
@@ -14811,7 +14811,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 66.28999999999999,
+      "width": 110.78,
       "height": 67
     },
     "_anchorPoint": {
@@ -14823,7 +14823,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        135.5,
+        205.5,
         0,
         0,
         0,
@@ -14883,7 +14883,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 337.28999999999996,
+      "width": 521.78,
       "height": 50
     },
     "_anchorPoint": {
@@ -18910,7 +18910,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 200,
+      "width": 340,
       "height": 67
     },
     "_anchorPoint": {
@@ -18922,7 +18922,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -68.6449966430664,
+        -90.88999999999999,
         0,
         0,
         0,
@@ -18965,7 +18965,7 @@
     "_useOriginalSize": false,
     "_string": "本场摆摊总收入",
     "_N$string": "本场摆摊总收入",
-    "_fontSize": 28,
+    "_fontSize": 48,
     "_lineHeight": 50,
     "_enableWrapText": true,
     "_N$file": null,
@@ -19036,15 +19036,15 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        66.8550033569336,
+        114.61000000000001,
         0,
         0,
         0,
         0,
         0,
         1,
-        1,
-        1,
+        1.3,
+        1.3,
         1
       ]
     },
@@ -19105,7 +19105,7 @@
     "_enabled": true,
     "_layoutSize": {
       "__type__": "cc.Size",
-      "width": 337.28999999999996,
+      "width": 521.78,
       "height": 50
     },
     "_resize": 1,
